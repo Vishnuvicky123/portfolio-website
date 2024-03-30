@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding-left: 10px;
+}
+.customer{
+    display: flex;
+    flex-direction: row;
+}
+.june {
+    display: flex;
+    flex-direction: row;
+}
+.skills{
+    display: flex;
+    flex-direction: row;
+}
+.others{
+    display: flex;
+    flex-direction: row;
+}
+.bodies{
+    display: flex;
+    flex-direction: row;
+}
+.Beer{
+    display: flex;
+    flex-direction: row;
+}
+.image{
+    height: 20vh;
+}
